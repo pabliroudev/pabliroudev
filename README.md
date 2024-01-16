@@ -86,4 +86,11 @@ Soy un desarrollador web apasionado con experiencia. Mi enfoque se centra en cre
 <br>
 <br>
 
-![Alt text](image.png)
+<h1>¡Algunos de mis proyectos! 🎨</h1>
+<Br>
+  
+[![ReadMe Card](https://pokedexpablirou.netlify.app/)](https://github.com/pabliroudev/pokedex)
+
+<Br>
+<hr>
+<Br>
