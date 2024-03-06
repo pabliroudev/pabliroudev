@@ -81,15 +81,10 @@ Soy un desarrollador web apasionado con experiencia. Mi enfoque se centra en cre
 [![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pablirourl)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pabloo11__)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pabloo11._/)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-leon-vergara/)
 <br>
 <br>
 <br>
-
-<h1>¡Algunos de mis proyectos! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://pokedexpablirou.netlify.app/)](https://github.com/pabliroudev/pokedex)
 
 <Br>
 <hr>
